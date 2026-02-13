@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Florencia Rossini 👩‍💻
 
-<!--
-**florossin/florossin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Undergraduate Student  
+📍 Moreno, Buenos Aires, Argentina  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 About Me
+
+I am currently building my foundation in computer science, focusing on:
+
+- Programming fundamentals
+- Digital logic
+- Circuit analysis
+- Problem solving
+- Technical understanding of hardware and software
+
+I am passionate about learning and continuously improving my technical skills.
+
+---
+
+## 🚀 Career Objective
+
+To gain professional experience in the IT field through internships and entry-level opportunities while expanding my knowledge in programming and technology.
+
+---
+
+## 🔧 Skills
+
+- Logical thinking
+- Analytical mindset
+- Fast learner
+- Adaptability
+- Teamwork
+
+---
+
+✨ Always learning. Always growing.
